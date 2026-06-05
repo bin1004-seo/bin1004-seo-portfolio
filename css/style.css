@@ -393,3 +393,26 @@ footer {
   padding-top: 40px;
     padding-bottom: 40px;
 }
+.info-list {
+  margin-top: 20px;
+}
+
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 0;
+  border-bottom: 1px solid #E8DCCB;
+}
+
+.info-item strong {
+  color: #A67C52;
+  font-size: 22px;
+}
+
+.info-item span,
+.info-item a {
+  color: #3B3026;
+  font-size: 18px;
+}
