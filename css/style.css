@@ -416,3 +416,7 @@ footer {
   color: #3B3026;
   font-size: 18px;
 }
+.info-item a {
+  color: #068bff;
+  font-weight: 700;
+}
